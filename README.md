@@ -1,8 +1,8 @@
 # Design files for DUNE Timing System GIB Slow Control Board
 
-Current version: PCB_Health.v5 
+### Current version: PCB_Health.v5 
 
-Files produced with KiCAD 10.0
+### Files produced with KiCAD 10.0
 
 Design information in hardware/KiCAD
 
@@ -16,3 +16,4 @@ BoM: PCB_Health.V5_BOM.xlsx . Version from Newbury: cleaned_full_bom_for_externa
 
 4-layer board. FR4. 1.6mm  Newbury Electronics "PCB train" stack-up
 
+Photograph of assembled board: ![photograph of assembled GIB slow control interface board](hardware/Photos/IMG_9411_with_cables_cropped.JPG)
